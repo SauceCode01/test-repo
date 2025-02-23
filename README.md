@@ -3,5 +3,9 @@
 add something 
 
 
-# editing from github 
-this part is edited from github 
+# commands
+add .
+commit -m "message"
+git log
+
+git push // push to remote repo
