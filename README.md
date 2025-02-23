@@ -12,3 +12,6 @@ git push // push to remote repo
 
 # editing from github 
 this is an edit from github editor
+
+# another edit from github before a separate local edit is committed
+local edit is not yet pushed
